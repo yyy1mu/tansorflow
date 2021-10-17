@@ -1,0 +1,5 @@
+dist
+build
+tansorflow.egg-info
+venv
+.idea
